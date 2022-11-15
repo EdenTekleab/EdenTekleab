@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdenTekleab
-- 👀 I’m interested in developing apps...
+- 👀 I’m interested in web design and developing apps...
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any project aimed to improve the healthcare system.
 - 📫 How to reach me https://t.me/Nirvana_oo
